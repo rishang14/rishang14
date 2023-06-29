@@ -5,6 +5,7 @@
 
 
  <li>🌍 I'm based in Greator  Noida,NCR</li>   
+ <li>🖥️ I am in B.C.A 2nd yr</li>
 
  <h1>Skills</h1> 
  <p align="left">
