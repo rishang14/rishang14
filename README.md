@@ -1,6 +1,6 @@
 <h1>Hi 👋  My name is Rishang kumar.</h1>
 
-<h1>I am Front End developer. =</h1>
+<h1>I am Front End developer.</h1>
 
 
 
