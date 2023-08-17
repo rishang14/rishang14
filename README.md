@@ -5,7 +5,7 @@ Hi, <img src="https://user-images.githubusercontent.com/18350557/176309783-07859
 
 
  <li>🌍 I'm based in Greator  Noida,NCR</li>   
- <li>🖥️ I am in B.C.A 2nd yr</li>
+ <li>🖥️ I am in B.C.A Final yr</li>
 
  <h1>Skills</h1> 
  <p align="left">
